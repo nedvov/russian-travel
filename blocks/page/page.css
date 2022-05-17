@@ -1,0 +1,8 @@
+.page {
+    background-color: #2A2C2F;
+    justify-content: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
