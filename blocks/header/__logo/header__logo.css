@@ -1,8 +1,14 @@
 .header__logo {
-    width: 100%;
-    height: 100%;
+    width: 176px;
+    height: 52px;
     margin: 0;
     background-image: url(../../../images/header-logo.svg);
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+@media screen and (max-width:767px) {
+    .header__logo {
+        height: 42px;
+    }
 }
